@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/pomofocus/static/css/main.7aae5828.css",
+    "main.js": "/pomofocus/static/js/main.d2d6aa03.js",
+    "static/js/845.035639d8.chunk.js": "/pomofocus/static/js/845.035639d8.chunk.js",
+    "static/js/787.d4aba7ab.chunk.js": "/pomofocus/static/js/787.d4aba7ab.chunk.js",
+    "static/media/timesUp.mp3": "/pomofocus/static/media/timesUp.0cbb5adfa4ca49bb47c6.mp3",
+    "static/media/startTimer.mp3": "/pomofocus/static/media/startTimer.2968a7452038c15f4208.mp3",
+    "static/media/pauseTimer.mp3": "/pomofocus/static/media/pauseTimer.d73c474578244c6a1b9f.mp3",
+    "static/media/slide.mp3": "/pomofocus/static/media/slide.3c8db537f53afb33abba.mp3",
+    "index.html": "/pomofocus/index.html",
+    "main.7aae5828.css.map": "/pomofocus/static/css/main.7aae5828.css.map",
+    "main.d2d6aa03.js.map": "/pomofocus/static/js/main.d2d6aa03.js.map",
+    "845.035639d8.chunk.js.map": "/pomofocus/static/js/845.035639d8.chunk.js.map",
+    "787.d4aba7ab.chunk.js.map": "/pomofocus/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7aae5828.css",
+    "static/js/main.d2d6aa03.js"
+  ]
+}
